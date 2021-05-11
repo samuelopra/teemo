@@ -39,7 +39,7 @@
     "fbgraph": "^1.4.4",
     "googleapis": "^47.0.0",
     "jquery": "^3.5.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "lusca": "^1.6.1",
     "mailchecker": "^3.3.4",
     "moment": "^2.24.0",
